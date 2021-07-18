@@ -1,2 +1,3 @@
 # GithubProfile
-Currently working on building my profile 😉!
+Currently working on building my profile.
+See you very soon 😉!
